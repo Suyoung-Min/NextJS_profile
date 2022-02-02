@@ -8,7 +8,7 @@ export default function profileDiv(){
                 <img className='inner pengu_image' src='/img/pengu.jpg' alt='image testing'></img>
                 <div>
                     <p>
-                        This is <strong>Suyoung</strong>'s profile.
+                        This is <strong>Suyoung</strong>s profile.
                     </p>
                     <br></br>
                     <p>I'm a student of <a href="https://cs.skku.edu/ko/" target="_blank">SKKU, SOFTWARE.</a></p>
