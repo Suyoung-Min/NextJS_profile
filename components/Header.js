@@ -15,9 +15,9 @@ function Header() {
                 <p className="text-7xl font-extrabold" ></p>
             </div>
             <div className="flex flex-grow justify-evenly max-w-sm">
-                <HeaderItem title='HOME' Icon={HomeIcon} />
-                <HeaderItem title='MAIL' Icon={MailIcon} />
-                <HeaderItem title='SKILL' Icon={UserIcon} />
+                <HeaderItem title="HOME" Icon={HomeIcon} />
+                <HeaderItem title="MAIL" Icon={MailIcon} />
+                <HeaderItem title="SKILL" Icon={UserIcon} />
             </div>
         </header>
     )
