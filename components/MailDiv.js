@@ -5,7 +5,7 @@ export default function maildiv(){
     return (
         <div> 
             <div className="profile inner">
-                <p>&nbsp;MAIL</p>
+                <p>MAIL</p>
                 <br></br>
                 <p>Naver: blackspider9704@naver.com</p>
                 <p>Google: sujae9704@gmail.com</p>
